@@ -1,0 +1,3 @@
+Note that these files are NOT normalized.
+Install and run `normalize-audio *.mp3` (as in `apt-get install normalize-audio`)
+to normalize these files.
